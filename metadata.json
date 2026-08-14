@@ -1,0 +1,6 @@
+{
+  "name": "বাংলা ব্লগার থিম ও নিউজ পোর্টাল",
+  "description": "ক্লাসিক ব্লগার লেআউট, ড্র্যাগ-এন্ড-ড্রপ উইজেট এডিটর, পোস্ট ম্যানেজার এবং ৮টি ক্যাটাগরি সহ আধুনিক বাংলা নিউজ ও ম্যাগাজিন পোর্টাল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
